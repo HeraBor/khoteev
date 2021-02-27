@@ -1,0 +1,14 @@
+{
+  "name": "herabor/khoteev",
+  "type": "library",
+  "authors": [{
+    "name": "Semen Khoteev",
+    "email": "cema.khoteev@mail.ru"
+  }],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Khoteev\\": ""
+    }
+  }
+}
